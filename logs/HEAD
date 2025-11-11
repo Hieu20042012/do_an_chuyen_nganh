@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 35a5da923a6bf2073b0e9774715c1e1f195d7066 NguyenTaHieu <nguyentahieu10d@gmail.com> 1762203664 +0700	commit (initial): Thêm folder website và file cơ sở dữ liệu PostgreSQL
+35a5da923a6bf2073b0e9774715c1e1f195d7066 0000000000000000000000000000000000000000 NguyenTaHieu <nguyentahieu10d@gmail.com> 1762203727 +0700	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 35a5da923a6bf2073b0e9774715c1e1f195d7066 NguyenTaHieu <nguyentahieu10d@gmail.com> 1762203727 +0700	Branch: renamed refs/heads/master to refs/heads/main
+35a5da923a6bf2073b0e9774715c1e1f195d7066 56479f35cc138c2dd47523c0e2e6a9e114022be7 NguyenTaHieu <nguyentahieu10d@gmail.com> 1762204314 +0700	commit: Thêm file .gitignore để loại bỏ file tạm, media và môi trường ảo
+56479f35cc138c2dd47523c0e2e6a9e114022be7 56479f35cc138c2dd47523c0e2e6a9e114022be7 NguyenTaHieu <nguyentahieu10d@gmail.com> 1762204730 +0700	checkout: moving from main to main
+56479f35cc138c2dd47523c0e2e6a9e114022be7 308803b0e957186f86992bf4b2341941c5e440ab NguyenTaHieu <nguyentahieu10d@gmail.com> 1762204970 +0700	commit: Xóa db.sqlite3 vì đã chuyển sang PostgreSQL
+308803b0e957186f86992bf4b2341941c5e440ab 75f287cd238acf84733cf18542348c1fa392907d NguyenTaHieu <nguyentahieu10d@gmail.com> 1762207589 +0700	commit: Thêm file category.html vào giao diện
